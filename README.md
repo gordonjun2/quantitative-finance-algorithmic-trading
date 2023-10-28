@@ -43,4 +43,12 @@ This repository contains educational materials I studied in the areas of Quantit
 - [WorldQuant BRAIN](https://www.worldquant.com/brain/)
 - [Numerai](https://numer.ai/)
 
+## Twitter users to learn from
+- [@KoroushAK](https://twitter.com/KoroushAK)
+    - Telegram group
+    - YouTube videos
+    - Cheatsheets
+- [@WifeyAlpha](https://twitter.com/WifeyAlpha)
+- [@I_Am_The_ICT](https://twitter.com/I_Am_The_ICT)
+
 ## Tips
