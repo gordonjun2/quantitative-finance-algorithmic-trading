@@ -87,7 +87,8 @@ This repository contains educational materials I studied in the areas of Quantit
 - [RL-Bitcoin-trading-bot](https://github.com/pythonlessons/RL-Bitcoin-trading-bot)
     - Trying to create Reinforcement Learning powered Bitcoin trading bot - pythonlessons
 - [Self-Study Plan for Becoming a Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer/)
-- [Stock Market Models ???](https://github.com/martinshkreli/models)
+- [models](https://github.com/martinshkreli/models)
+    - stock market models - have fun - martinshkreli
 - [trading_scripts](https://github.com/liquiditygoblin/trading_scripts)
     - A collection of helpful trading scripts I've hacked together - liquiditygoblin
 - Twitter Threads
