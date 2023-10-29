@@ -17,14 +17,20 @@ This repository contains educational materials I studied in the areas of Quantit
     - Solutions to the problems in Active Portfolio Management (Second Edition) by Grinold and Kahn.
 - [aiif](https://github.com/yhilpisch/aiif)
     - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch.
+- [ArcticDB](https://github.com/man-group/ArcticDB)
+    - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem. ArcticDB offers an intuitive Python-centric API enabling you to read and write Pandas DataFrames to S3 or LMDB utilising a fast C++ data-processing and compression engine.
 - [autocast](https://github.com/andyzoujm/autocast)
     - Forecasting Future World Events with Neural Networks (NeurIPS 2022)
+- [awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction)
+    - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
     - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [binance-bounces](https://github.com/matiasgcl/binance-bounces)
     - This script basically will compute (individually, for each coin separately) amplitude and time ellapsed for the biggest bounce produced on a given data range, using user-defined timeframe for the candles considered.
 - [binance-drops](https://github.com/matiasgcl/binance-drops)
     - This script basically will compute (individually, for each coin separately) amplitude and time ellapsed for the biggest drop produced on a given data range, using user-defined timeframe for the candles considered.
+- [catboost](https://github.com/catboost/catboost)
+    - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [Computational-Finance-Course](https://github.com/LechGrzelak/Computational-Finance-Course)
     - Materials for the course of Computational Finance at https://www.youtube.com/ComputationsInFinance
 - [crypto-bot](https://github.com/abhinavk99/crypto-bot)
@@ -70,6 +76,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Repository of my guides for Numer.ai tournament - parmarsuraj99
 - [numerblox](https://github.com/crowdcent/numerblox)
     - numerblox offers Numerai specific functionality, so you can worry less about software/data engineering and focus more on building great Numerai models!
+- [Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python)
+    - Developing Options Trading Strategies using Technical Indicators and Quantitative Methods
 - [PriceIndices](https://github.com/dc-aichara/PriceIndices)
     - A python package to extract historical market data of cryptocurrencies and to calculate technical price indicators.
 - [py4at](https://github.com/yhilpisch/py4at)
@@ -89,6 +97,8 @@ This repository contains educational materials I studied in the areas of Quantit
 - [Self-Study Plan for Becoming a Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer/)
 - [models](https://github.com/martinshkreli/models)
     - stock market models - have fun - martinshkreli
+- [tf-quant-finance](https://github.com/google/tf-quant-finance)
+    - High-performance TensorFlow library for quantitative finance.
 - [trading_scripts](https://github.com/liquiditygoblin/trading_scripts)
     - A collection of helpful trading scripts I've hacked together - liquiditygoblin
 - Twitter Threads
@@ -119,6 +129,11 @@ This repository contains educational materials I studied in the areas of Quantit
     - Telegram group
     - YouTube videos
     - Cheatsheets
+- [@predict_addict](https://twitter.com/predict_addict)
+    - Medium
+- [@quant_prep](https://twitter.com/quant_prep)
+    - Codes
+    - Books
 - [@WifeyAlpha](https://twitter.com/WifeyAlpha)
 
 ## Tips
