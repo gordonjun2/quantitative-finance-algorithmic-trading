@@ -33,6 +33,7 @@ This repository contains educational materials I studied in the areas of Quantit
     - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [Computational-Finance-Course](https://github.com/LechGrzelak/Computational-Finance-Course)
     - Materials for the course of Computational Finance at https://www.youtube.com/ComputationsInFinance
+- [CrunchDAO](https://www.crunchdao.com/)
 - [crypto-bot](https://github.com/abhinavk99/crypto-bot)
     - Telegram bot that uses the CoinMarketCap API and the Binance API to get information on cryptocurrencies and the global cryptocurrency market.
 - [crypto-rl](https://github.com/sadighian/crypto-rl)
@@ -80,6 +81,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Developing Options Trading Strategies using Technical Indicators and Quantitative Methods
 - [PriceIndices](https://github.com/dc-aichara/PriceIndices)
     - A python package to extract historical market data of cryptocurrencies and to calculate technical price indicators.
+- [Professor Sebastian Jaimungal's codes on Algorithmic Trading](https://gist.github.com/sebjai)
+    - Contains codes for some problems in Algorithmic and High-Frequency Trading (c) Cartea, Jaimungal, & Penalva, 2015 Cambridge University Press
 - [py4at](https://github.com/yhilpisch/py4at)
     - Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch.
 - [Python-for-Finance-Cookbook](https://github.com/PacktPublishing/Python-for-Finance-Cookbook)
@@ -125,6 +128,7 @@ This repository contains educational materials I studied in the areas of Quantit
 
 ## Twitter users to learn from
 - [@I_Am_The_ICT](https://twitter.com/I_Am_The_ICT)
+- [@j0hnnyw00](https://twitter.com/j0hnnyw00)
 - [@KoroushAK](https://twitter.com/KoroushAK)
     - Telegram group
     - YouTube videos
