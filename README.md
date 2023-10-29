@@ -66,6 +66,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [IOTA-Arbitrage](https://github.com/AYIDouble/IOTA-Arbitrage)
 - [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
+- [LightGBM](https://github.com/microsoft/LightGBM)
+    - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [Liquidation Heatmap](https://academy.hyblockcapital.com/tools/liquidation-levels-1)
     - Estimated price levels predicting where liquidation events may occur
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
@@ -131,6 +133,7 @@ This repository contains educational materials I studied in the areas of Quantit
 - WorldQuant University Proficiency Test Preparation
     - [Preparing for Quantitative Proficiency Test for MScFE at WorldQuant](https://gaurav-adarshi.medium.com/preparing-for-quantitative-proficiency-test-for-mscfe-at-worldquant-2eaf0a0950a1)
     - [WorldQuant University Quantitative Proficiency Test](https://www.thomastiveron.com/2019/11/01/worldquant-university-quantitative-proficiency-test/)
+- [XGBoost? CatBoost? LightGBM?](https://www.joinplank.com/articles/xgboost-catboost-lightgbm)
 
 ## Twitter users to learn from
 - [@I_Am_The_ICT](https://twitter.com/I_Am_The_ICT)
