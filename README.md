@@ -66,6 +66,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [IOTA-Arbitrage](https://github.com/AYIDouble/IOTA-Arbitrage)
 - [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
+- [Liquidation Heatmap](https://academy.hyblockcapital.com/tools/liquidation-levels-1)
+    - Estimated price levels predicting where liquidation events may occur
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
     - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [numerai](https://github.com/jimfleming/numerai)
@@ -85,6 +87,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Contains codes for some problems in Algorithmic and High-Frequency Trading (c) Cartea, Jaimungal, & Penalva, 2015 Cambridge University Press
 - [py4at](https://github.com/yhilpisch/py4at)
     - Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch.
+- [py-liquidation-map](https://github.com/aoki-h-jp/py-liquidation-map)
+    - Visualize Liquidation Map from actual execution data. Supports for all historical data from binance and bybit. Receiving orders in real-time via websocket and drawing liquidation maps is being implemented.
 - [Python-for-Finance-Cookbook](https://github.com/PacktPublishing/Python-for-Finance-Cookbook)
     - Python for Finance Cookbook, published by Packt
 - [QuantConnect Investment Strategy Library](https://www.quantconnect.com/learning/articles/investment-strategy-library)
@@ -104,6 +108,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - High-performance TensorFlow library for quantitative finance.
 - [trading_scripts](https://github.com/liquiditygoblin/trading_scripts)
     - A collection of helpful trading scripts I've hacked together - liquiditygoblin
+- [TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator](https://github.com/Triex/TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator)
+    - A simple indicator which lets you see where positions will be liquidated. Each line is based on default leverage levels typically used for trading & can be offset. (3x,5x,10x,25x,50x)
 - Twitter Threads
     - [If you're getting into algos, you need three things...](https://twitter.com/GoshawkTrades/status/1714005870982430952?t=E6JA1VB7MIzt3lpfHidTLA&s=35)
     - [WifeyAlpha Normie Starter Pack](https://twitter.com/WifeyAlpha/status/1563559122884104200?t=FruW0K2M0QLcZB69i7-RXw&s=35)
