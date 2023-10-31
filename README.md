@@ -83,6 +83,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - numerblox offers Numerai specific functionality, so you can worry less about software/data engineering and focus more on building great Numerai models!
 - [Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python)
     - Developing Options Trading Strategies using Technical Indicators and Quantitative Methods
+- [peregrine](https://github.com/wardbradt/peregrine)
+    - Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries
 - [PriceIndices](https://github.com/dc-aichara/PriceIndices)
     - A python package to extract historical market data of cryptocurrencies and to calculate technical price indicators.
 - [Professor Sebastian Jaimungal's codes on Algorithmic Trading](https://gist.github.com/sebjai)
