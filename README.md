@@ -38,6 +38,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Telegram bot that uses the CoinMarketCap API and the Binance API to get information on cryptocurrencies and the global cryptocurrency market.
 - [crypto-rl](https://github.com/sadighian/crypto-rl)
     - Deep Reinforcement Learning toolkit: record and replay cryptocurrency limit order book data & train a DDQN agent
+- [cryptofeed](https://github.com/bmoscon/cryptofeed)
+    - Cryptocurrency Exchange Websocket Data Feed Handler
 - [DeepTables](https://github.com/DataCanvasIO/DeepTables)
     - DeepTables: Deep-learning Toolkit for Tabular data
 - [Digital-Signal-Processing-In-Trading](https://github.com/Naharul98/Digital-Signal-Processing-In-Trading)
