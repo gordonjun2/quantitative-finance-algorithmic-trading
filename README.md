@@ -121,6 +121,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - [WifeyAlpha Normie Starter Pack](https://twitter.com/WifeyAlpha/status/1563559122884104200?t=FruW0K2M0QLcZB69i7-RXw&s=35)
 - [twitter-trend-analyzer](https://github.com/IkwhanChang/twitter-trend-analyzer)
     - The trend analysis engine for a specific keyword of Twitter by using a graphical chart and geographical chart.
+- [vollib](https://github.com/vollib/vollib)
+    - Fundamentally a swig/python wrapper around Peter Jaeckel's lets_be_rational. lets_be_rational focuses exclusively on Black76, while Vollib extends this to add support for Black-Scholes and Black-Scholes-Merton.
 - [WifeyAlpha](https://wifeyalpha.com/)
     - Free account offers:
         - Daily Ex-Post Market Summary
