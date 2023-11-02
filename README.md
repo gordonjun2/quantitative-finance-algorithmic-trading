@@ -17,6 +17,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Solutions to the problems in Active Portfolio Management (Second Edition) by Grinold and Kahn.
 - [aiif](https://github.com/yhilpisch/aiif)
     - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch.
+- [AlgorithmicTrading](https://github.com/JerBouma/AlgorithmicTrading)
+    - This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.
 - [ArcticDB](https://github.com/man-group/ArcticDB)
     - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem. ArcticDB offers an intuitive Python-centric API enabling you to read and write Pandas DataFrames to S3 or LMDB utilising a fast C++ data-processing and compression engine.
 - [autocast](https://github.com/andyzoujm/autocast)
@@ -46,6 +48,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Using Discrete Fourier transform to transform and eliminate noise in asset price time series and identify repeating patterns to exploit and backtest.
 - [ep-chan-book-algo-trading](https://github.com/zazhang/ep-chan-book-algo-trading)
     - 'Algorithmic Trading Winning Strategies and their Rational' Algo Trading Book Python Implementation
+- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
+    - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 - [financial-signal-processing](https://github.com/RyanEggert/financial-signal-processing)
     - Designing and implementing an equities trader using principles of signal processing and Python. Final project for Olin College's Digital Signal Processing course [Spring 2015].
 - [Financial-Signal-Processing](https://github.com/yuvalofek/Financial-Signal-Processing)
