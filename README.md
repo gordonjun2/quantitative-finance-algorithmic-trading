@@ -68,6 +68,8 @@ This repository contains educational materials I studied in the areas of Quantit
 - [HangukQuant's Newsletter](https://hangukquant.substack.com/)
     - Promotional research work
     - Paid courses on quantitative finance and development
+- [hftbacktest](https://github.com/nkaz001/hftbacktest)
+    - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 - [hummingbot](https://github.com/hummingbot/hummingbot)
     - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [IOTA-Arbitrage](https://github.com/AYIDouble/IOTA-Arbitrage)
@@ -97,6 +99,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Contains codes for some problems in Algorithmic and High-Frequency Trading (c) Cartea, Jaimungal, & Penalva, 2015 Cambridge University Press
 - [py4at](https://github.com/yhilpisch/py4at)
     - Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch.
+- [pyalgotrading](https://github.com/algobulls/pyalgotrading)
+    - https://github.com/algobulls/pyalgotrading
 - [py-liquidation-map](https://github.com/aoki-h-jp/py-liquidation-map)
     - Visualize Liquidation Map from actual execution data. Supports for all historical data from binance and bybit. Receiving orders in real-time via websocket and drawing liquidation maps is being implemented.
 - [Python-for-Finance-Cookbook](https://github.com/PacktPublishing/Python-for-Finance-Cookbook)
