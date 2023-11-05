@@ -19,6 +19,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch.
 - [AlgorithmicTrading](https://github.com/JerBouma/AlgorithmicTrading)
     - This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.
+- [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+    - Alpha Vantage delivers a free API for real time financial data and most used finance indicators in a simple json or pandas format.
 - [ArcticDB](https://github.com/man-group/ArcticDB)
     - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem. ArcticDB offers an intuitive Python-centric API enabling you to read and write Pandas DataFrames to S3 or LMDB utilising a fast C++ data-processing and compression engine.
 - [autocast](https://github.com/andyzoujm/autocast)
