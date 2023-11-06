@@ -115,6 +115,8 @@ This repository contains educational materials I studied in the areas of Quantit
 - [Quant-Finance-Resources](https://github.com/PyPatel/Quant-Finance-Resources)
     - Quant Finance Courses, Articles and many more which can help beginners or professionals.
 - [Quantopian Lectures](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291)
+- [quant_research](https://github.com/adamd1985/quant_research)
+    - Collection of notebooks and scripts related to financial engineering, quant-research and algo-trading
 - [RL-Bitcoin-trading-bot](https://github.com/pythonlessons/RL-Bitcoin-trading-bot)
     - Trying to create Reinforcement Learning powered Bitcoin trading bot - pythonlessons
 - [Self-Study Plan for Becoming a Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer/)
