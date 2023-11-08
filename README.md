@@ -35,6 +35,7 @@ This repository contains educational materials I studied in the areas of Quantit
     - This script basically will compute (individually, for each coin separately) amplitude and time ellapsed for the biggest drop produced on a given data range, using user-defined timeframe for the candles considered.
 - [catboost](https://github.com/catboost/catboost)
     - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [Chart Pattern Trading Technical Analysis - ThinkMarkets](https://www.thinkmarkets.com/tfxmain/media/img/pdf/3-chart-patterns.pdf)
 - [Computational-Finance-Course](https://github.com/LechGrzelak/Computational-Finance-Course)
     - Materials for the course of Computational Finance at https://www.youtube.com/ComputationsInFinance
 - [CrunchDAO](https://www.crunchdao.com/)
@@ -74,6 +75,7 @@ This repository contains educational materials I studied in the areas of Quantit
     - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 - [hummingbot](https://github.com/hummingbot/hummingbot)
     - Open source software that helps you create and deploy high-frequency crypto trading bots
+- [Identifying Chart Patterns with Technical Analysis - A Fidelity Investments Webinar Series](https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/Idenitfying-Chart-Patterns.pdf)
 - [IOTA-Arbitrage](https://github.com/AYIDouble/IOTA-Arbitrage)
 - [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
 - [LightGBM](https://github.com/microsoft/LightGBM)
