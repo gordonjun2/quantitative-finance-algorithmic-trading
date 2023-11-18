@@ -64,6 +64,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Financial reinforcement learning (FinRL) (Document website) is the first open-source framework for financial reinforcement learning.
 - [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading)
     - Purpose: Based on FinRL (https://github.com/AI4Finance-Foundation/FinRL), develop an AI stock-selection and trading strategy using Supervised Learning (SL) and Deep Reinforcement Learning (DRL), and deploy it to an online trading platform.
+- [FinQuant](https://github.com/fmilthaler/FinQuant)
+    - FinQuant is a program for financial portfolio management, analysis and optimisation.
 - [freqtrade](https://github.com/freqtrade/freqtrade)
     - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 - [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
