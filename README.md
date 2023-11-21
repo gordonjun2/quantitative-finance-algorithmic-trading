@@ -33,6 +33,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - This script basically will compute (individually, for each coin separately) amplitude and time ellapsed for the biggest bounce produced on a given data range, using user-defined timeframe for the candles considered.
 - [binance-drops](https://github.com/matiasgcl/binance-drops)
     - This script basically will compute (individually, for each coin separately) amplitude and time ellapsed for the biggest drop produced on a given data range, using user-defined timeframe for the candles considered.
+- [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)
+    - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins - CyberPunkMetalHead
 - [catboost](https://github.com/catboost/catboost)
     - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [Chart Pattern Trading Technical Analysis - ThinkMarkets](https://www.thinkmarkets.com/tfxmain/media/img/pdf/3-chart-patterns.pdf)
@@ -53,6 +55,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - 'Algorithmic Trading Winning Strategies and their Rational' Algo Trading Book Python Implementation
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
     - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+- [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
+    - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
 - [financial-signal-processing](https://github.com/RyanEggert/financial-signal-processing)
     - Designing and implementing an equities trader using principles of signal processing and Python. Final project for Olin College's Digital Signal Processing course [Spring 2015].
 - [Financial-Signal-Processing](https://github.com/yuvalofek/Financial-Signal-Processing)
