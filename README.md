@@ -79,6 +79,8 @@ This repository contains educational materials I studied in the areas of Quantit
     - Paid courses on quantitative finance and development
 - [hftbacktest](https://github.com/nkaz001/hftbacktest)
     - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
+- [HFT-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook)
+    - Limit Order Book for high-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 - [hummingbot](https://github.com/hummingbot/hummingbot)
     - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [Identifying Chart Patterns with Technical Analysis - A Fidelity Investments Webinar Series](https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/Idenitfying-Chart-Patterns.pdf)
