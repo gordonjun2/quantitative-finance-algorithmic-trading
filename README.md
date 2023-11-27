@@ -145,6 +145,7 @@ This repository contains educational materials I studied in the areas of Quantit
     - The trend analysis engine for a specific keyword of Twitter by using a graphical chart and geographical chart.
 - [vollib](https://github.com/vollib/vollib)
     - Fundamentally a swig/python wrapper around Peter Jaeckel's lets_be_rational. lets_be_rational focuses exclusively on Black76, while Vollib extends this to add support for Black-Scholes and Black-Scholes-Merton.
+- [Why You Should Use a Logarithmic Scale (Log Scale) for Stock Price Charts](https://www.claret.ca/publications/why-use-logarithmic-scale/)
 - [WifeyAlpha](https://wifeyalpha.com/)
     - Free account offers:
         - Daily Ex-Post Market Summary
