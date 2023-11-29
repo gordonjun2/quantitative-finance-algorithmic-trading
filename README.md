@@ -132,6 +132,8 @@ This repository contains educational materials I studied in the areas of Quantit
 - [Self-Study Plan for Becoming a Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer/)
 - [models](https://github.com/martinshkreli/models)
     - stock market models - have fun - martinshkreli
+- [tensortrade](https://github.com/tensortrade-org/tensortrade)
+    - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 - [tf-quant-finance](https://github.com/google/tf-quant-finance)
     - High-performance TensorFlow library for quantitative finance.
 - [trading_scripts](https://github.com/liquiditygoblin/trading_scripts)
